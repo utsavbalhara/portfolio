@@ -11,7 +11,10 @@ export default function Home() {
           Your Name
         </h1>
         <p className="text-lg md:text-xl text-white/90">
-          About
+          I build useful (sometimes cool) stuff- mostly with Python, Swift,
+          Kotlin, and React/Next.js I ship products that people don't hate,
+          occasionally break things in interesting ways, and consume a
+          questionable amount of coffee in the process.
         </p>
       </div>
     </div>
