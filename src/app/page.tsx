@@ -12,7 +12,7 @@ export default function Home() {
         </h1>
         <p className="text-lg md:text-xl text-white/90">
           I build useful (sometimes cool) stuff- mostly with Python, Swift,
-          Kotlin, and React/Next.js I ship products that people don't hate,
+          Kotlin, and React/Next.js I ship products that people don&apos;t hate,
           occasionally break things in interesting ways, and consume a
           questionable amount of coffee in the process.
         </p>
